@@ -1,3 +1,4 @@
+import { width } from "@mui/system";
 import Head from "next/head";
 import Image from "next/image";
 import Calorie from "../components/Calorie";
@@ -19,10 +20,10 @@ export default function Home() {
       </Head>
 
       <Navbar/> 
-        <div className="max-w-7xl md:w-xl lg:w-5xl ">
+        <div className="md:w-xl lg:w-5xl ">
           <Landing />
           <Calorie />
-        <Foodlist />
+          <Foodlist />
         </div>
       <Footer/>
         
