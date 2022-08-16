@@ -4,7 +4,7 @@ import Link from "next/link";
 const Landing = () => {
   return (
     <>
-      <main className="h-screen w-screen bg-scroll bg-bg bg-no-repeat bg-cover max-h-screen flex"></main>
+      <main className="h-screen w-full bg-scroll bg-bg bg-no-repeat bg-cover max-h-screen flex"></main>
     </>
   );
 };

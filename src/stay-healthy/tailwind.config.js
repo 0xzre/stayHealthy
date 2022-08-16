@@ -5,10 +5,14 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+      },
+    },
     backgroundImage: {
-      'bg': "url('../public/landing.png')"
-    }
+      bg: "url('../public/landing.png')",
+    },
   },
   plugins: [],
-}
+};
