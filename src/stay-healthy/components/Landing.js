@@ -3,10 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 const Landing = () => {
   return (
-    <div
-      className="h-screen"
-      style={{ backgroundImage: `url(${"/landing.png"})` }}
-    ></div>
+    <>
+      <main className="h-screen w-screen bg-scroll bg-bg bg-no-repeat bg-cover max-h-screen flex"></main>
+    </>
   );
 };
 
