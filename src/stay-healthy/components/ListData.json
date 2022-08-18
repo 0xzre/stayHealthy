@@ -528,5 +528,2917 @@
     "FoodItem": "Maracuya",
     "per100grams": "100g",
     "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Maraschino Cherries",
+    "per100grams": "100g",
+    "Cals_per100grams": "165 cal"
+  },
+  {
+    "FoodItem": "Muskmelon",
+    "per100grams": "100g",
+    "Cals_per100grams": "34 cal"
+  },
+  {
+    "FoodItem": "Noni",
+    "per100grams": "100g",
+    "Cals_per100grams": "53 cal"
+  },
+  {
+    "FoodItem": "Passion Fruit",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Pineapple",
+    "per100grams": "100g",
+    "Cals_per100grams": "50 cal"
+  },
+  {
+    "FoodItem": "Pink Grapefruit",
+    "per100grams": "100g",
+    "Cals_per100grams": "42 cal"
+  },
+  {
+    "FoodItem": "Plantain",
+    "per100grams": "100g",
+    "Cals_per100grams": "122 cal"
+  },
+  {
+    "FoodItem": "Pomegranate",
+    "per100grams": "100g",
+    "Cals_per100grams": "83 cal"
+  },
+  {
+    "FoodItem": "Pomelo",
+    "per100grams": "100g",
+    "Cals_per100grams": "38 cal"
+  },
+  {
+    "FoodItem": "Prickly Pear",
+    "per100grams": "100g",
+    "Cals_per100grams": "41 cal"
+  },
+  {
+    "FoodItem": "Rambutan",
+    "per100grams": "100g",
+    "Cals_per100grams": "82 cal"
+  },
+  {
+    "FoodItem": "Sapodilla",
+    "per100grams": "100g",
+    "Cals_per100grams": "83 cal"
+  },
+  {
+    "FoodItem": "Soursop Fruit",
+    "per100grams": "100g",
+    "Cals_per100grams": "66 cal"
+  },
+  {
+    "FoodItem": "Star Fruit",
+    "per100grams": "100g",
+    "Cals_per100grams": "31 cal"
+  },
+  {
+    "FoodItem": "Tamarind",
+    "per100grams": "100g",
+    "Cals_per100grams": "239 cal"
+  },
+  {
+    "FoodItem": "Watermelon",
+    "per100grams": "100g",
+    "Cals_per100grams": "30 cal"
+  },
+  {
+    "FoodItem": "All-blue Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Baked Potato",
+    "per100grams": "100g",
+    "Cals_per100grams": "93 cal"
+  },
+  {
+    "FoodItem": "Boiled Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "87 cal"
+  },
+  {
+    "FoodItem": "Cassava",
+    "per100grams": "100g",
+    "Cals_per100grams": "160 cal"
+  },
+  {
+    "FoodItem": "Croquettes",
+    "per100grams": "100g",
+    "Cals_per100grams": "127 cal"
+  },
+  {
+    "FoodItem": "Dumpling Dough",
+    "per100grams": "100g",
+    "Cals_per100grams": "124 cal"
+  },
+  {
+    "FoodItem": "Dumplings",
+    "per100grams": "100g",
+    "Cals_per100grams": "124 cal"
+  },
+  {
+    "FoodItem": "French Fingerling Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "82 cal"
+  },
+  {
+    "FoodItem": "French Fries",
+    "per100grams": "100g",
+    "Cals_per100grams": "312 cal"
+  },
+  {
+    "FoodItem": "Fried Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "312 cal"
+  },
+  {
+    "FoodItem": "Gnocchi",
+    "per100grams": "100g",
+    "Cals_per100grams": "133 cal"
+  },
+  {
+    "FoodItem": "Japanese Sweet Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "87 cal"
+  },
+  {
+    "FoodItem": "Marrow Dumplings",
+    "per100grams": "100g",
+    "Cals_per100grams": "424 cal"
+  },
+  {
+    "FoodItem": "Mashed Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Norland Red Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Omelette",
+    "per100grams": "100g",
+    "Cals_per100grams": "154 cal"
+  },
+  {
+    "FoodItem": "Potato",
+    "per100grams": "100g",
+    "Cals_per100grams": "77 cal"
+  },
+  {
+    "FoodItem": "Potato Dumpling",
+    "per100grams": "100g",
+    "Cals_per100grams": "124 cal"
+  },
+  {
+    "FoodItem": "Potato Fritter",
+    "per100grams": "100g",
+    "Cals_per100grams": "185 cal"
+  },
+  {
+    "FoodItem": "Potato Gratin",
+    "per100grams": "100g",
+    "Cals_per100grams": "132 cal"
+  },
+  {
+    "FoodItem": "Potato Pancakes",
+    "per100grams": "100g",
+    "Cals_per100grams": "268 cal"
+  },
+  {
+    "FoodItem": "Potato Salad",
+    "per100grams": "100g",
+    "Cals_per100grams": "143 cal"
+  },
+  {
+    "FoodItem": "Potato Starch",
+    "per100grams": "100g",
+    "Cals_per100grams": "331 cal"
+  },
+  {
+    "FoodItem": "Potato Sticks",
+    "per100grams": "100g",
+    "Cals_per100grams": "522 cal"
+  },
+  {
+    "FoodItem": "Potato Waffles",
+    "per100grams": "100g",
+    "Cals_per100grams": "167 cal"
+  },
+  {
+    "FoodItem": "Potato Wedges",
+    "per100grams": "100g",
+    "Cals_per100grams": "123 cal"
+  },
+  {
+    "FoodItem": "Potatoes au Gratin",
+    "per100grams": "100g",
+    "Cals_per100grams": "132 cal"
+  },
+  {
+    "FoodItem": "Purple Majesty Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "72 cal"
+  },
+  {
+    "FoodItem": "Red Gold Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Red Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Roast Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "149 cal"
+  },
+  {
+    "FoodItem": "Rosemary Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "93 cal"
+  },
+  {
+    "FoodItem": "Rösti",
+    "per100grams": "100g",
+    "Cals_per100grams": "138 cal"
+  },
+  {
+    "FoodItem": "Russet Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Russian Banana Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "67 cal"
+  },
+  {
+    "FoodItem": "Sweet Potato",
+    "per100grams": "100g",
+    "Cals_per100grams": "92 cal"
+  },
+  {
+    "FoodItem": "White Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "94 cal"
+  },
+  {
+    "FoodItem": "Yams",
+    "per100grams": "100g",
+    "Cals_per100grams": "116 cal"
+  },
+  {
+    "FoodItem": "Yukon Gold Potatoes",
+    "per100grams": "100g",
+    "Cals_per100grams": "82 cal"
+  },
+  {
+    "FoodItem": "Artichoke",
+    "per100grams": "100g",
+    "Cals_per100grams": "47 cal"
+  },
+  {
+    "FoodItem": "Arugula",
+    "per100grams": "100g",
+    "Cals_per100grams": "25 cal"
+  },
+  {
+    "FoodItem": "Asparagus",
+    "per100grams": "100g",
+    "Cals_per100grams": "20 cal"
+  },
+  {
+    "FoodItem": "Aubergine",
+    "per100grams": "100g",
+    "Cals_per100grams": "25 cal"
+  },
+  {
+    "FoodItem": "Beetroot",
+    "per100grams": "100g",
+    "Cals_per100grams": "43 cal"
+  },
+  {
+    "FoodItem": "Bell Pepper",
+    "per100grams": "100g",
+    "Cals_per100grams": "20 cal"
+  },
+  {
+    "FoodItem": "Black Olives",
+    "per100grams": "100g",
+    "Cals_per100grams": "115 cal"
+  },
+  {
+    "FoodItem": "Broccoli",
+    "per100grams": "100g",
+    "Cals_per100grams": "34 cal"
+  },
+  {
+    "FoodItem": "Brussels Sprouts",
+    "per100grams": "100g",
+    "Cals_per100grams": "43 cal"
+  },
+  {
+    "FoodItem": "Cabbage",
+    "per100grams": "100g",
+    "Cals_per100grams": "25 cal"
+  },
+  {
+    "FoodItem": "Capsicum",
+    "per100grams": "100g",
+    "Cals_per100grams": "27 cal"
+  },
+  {
+    "FoodItem": "Carrot",
+    "per100grams": "100g",
+    "Cals_per100grams": "41 cal"
+  },
+  {
+    "FoodItem": "Cauliflower",
+    "per100grams": "100g",
+    "Cals_per100grams": "25 cal"
+  },
+  {
+    "FoodItem": "Celery",
+    "per100grams": "100g",
+    "Cals_per100grams": "16 cal"
+  },
+  {
+    "FoodItem": "Chard",
+    "per100grams": "100g",
+    "Cals_per100grams": "19 cal"
+  },
+  {
+    "FoodItem": "Cherry Tomato",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Chicory",
+    "per100grams": "100g",
+    "Cals_per100grams": "72 cal"
+  },
+  {
+    "FoodItem": "Chinese Cabbage",
+    "per100grams": "100g",
+    "Cals_per100grams": "16 cal"
+  },
+  {
+    "FoodItem": "Chives",
+    "per100grams": "100g",
+    "Cals_per100grams": "30 cal"
+  },
+  {
+    "FoodItem": "Collard Greens",
+    "per100grams": "100g",
+    "Cals_per100grams": "32 cal"
+  },
+  {
+    "FoodItem": "Corn",
+    "per100grams": "100g",
+    "Cals_per100grams": "365 cal"
+  },
+  {
+    "FoodItem": "Courgette",
+    "per100grams": "100g",
+    "Cals_per100grams": "17 cal"
+  },
+  {
+    "FoodItem": "Creamed Spinach",
+    "per100grams": "100g",
+    "Cals_per100grams": "74 cal"
+  },
+  {
+    "FoodItem": "Cucumber",
+    "per100grams": "100g",
+    "Cals_per100grams": "16 cal"
+  },
+  {
+    "FoodItem": "Eggplant",
+    "per100grams": "100g",
+    "Cals_per100grams": "25 cal"
+  },
+  {
+    "FoodItem": "Endive",
+    "per100grams": "100g",
+    "Cals_per100grams": "17 cal"
+  },
+  {
+    "FoodItem": "Fennel",
+    "per100grams": "100g",
+    "Cals_per100grams": "31 cal"
+  },
+  {
+    "FoodItem": "Garlic",
+    "per100grams": "100g",
+    "Cals_per100grams": "149 cal"
+  },
+  {
+    "FoodItem": "Gherkin",
+    "per100grams": "100g",
+    "Cals_per100grams": "14 cal"
+  },
+  {
+    "FoodItem": "Gourd",
+    "per100grams": "100g",
+    "Cals_per100grams": "14 cal"
+  },
+  {
+    "FoodItem": "Green Beans",
+    "per100grams": "100g",
+    "Cals_per100grams": "31 cal"
+  },
+  {
+    "FoodItem": "Green Olives",
+    "per100grams": "100g",
+    "Cals_per100grams": "115 cal"
+  },
+  {
+    "FoodItem": "Green Onion",
+    "per100grams": "100g",
+    "Cals_per100grams": "32 cal"
+  },
+  {
+    "FoodItem": "Horseradish",
+    "per100grams": "100g",
+    "Cals_per100grams": "48 cal"
+  },
+  {
+    "FoodItem": "Kale",
+    "per100grams": "100g",
+    "Cals_per100grams": "49 cal"
+  },
+  {
+    "FoodItem": "Kohlrabi",
+    "per100grams": "100g",
+    "Cals_per100grams": "27 cal"
+  },
+  {
+    "FoodItem": "Kumara",
+    "per100grams": "100g",
+    "Cals_per100grams": "86 cal"
+  },
+  {
+    "FoodItem": "Leek",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Lettuce",
+    "per100grams": "100g",
+    "Cals_per100grams": "15 cal"
+  },
+  {
+    "FoodItem": "Mushrooms",
+    "per100grams": "100g",
+    "Cals_per100grams": "22 cal"
+  },
+  {
+    "FoodItem": "Mustard Greens",
+    "per100grams": "100g",
+    "Cals_per100grams": "27 cal"
+  },
+  {
+    "FoodItem": "Nori",
+    "per100grams": "100g",
+    "Cals_per100grams": "35 cal"
+  },
+  {
+    "FoodItem": "Okra",
+    "per100grams": "100g",
+    "Cals_per100grams": "33 cal"
+  },
+  {
+    "FoodItem": "Olives",
+    "per100grams": "100g",
+    "Cals_per100grams": "115 cal"
+  },
+  {
+    "FoodItem": "Onion",
+    "per100grams": "100g",
+    "Cals_per100grams": "40 cal"
+  },
+  {
+    "FoodItem": "Parsnips",
+    "per100grams": "100g",
+    "Cals_per100grams": "75 cal"
+  },
+  {
+    "FoodItem": "Peas",
+    "per100grams": "100g",
+    "Cals_per100grams": "81 cal"
+  },
+  {
+    "FoodItem": "Pepper",
+    "per100grams": "100g",
+    "Cals_per100grams": "27 cal"
+  },
+  {
+    "FoodItem": "Potato",
+    "per100grams": "100g",
+    "Cals_per100grams": "77 cal"
+  },
+  {
+    "FoodItem": "Pumpkin",
+    "per100grams": "100g",
+    "Cals_per100grams": "26 cal"
+  },
+  {
+    "FoodItem": "Radishes",
+    "per100grams": "100g",
+    "Cals_per100grams": "16 cal"
+  },
+  {
+    "FoodItem": "Red Cabbage",
+    "per100grams": "100g",
+    "Cals_per100grams": "31 cal"
+  },
+  {
+    "FoodItem": "Rutabaga",
+    "per100grams": "100g",
+    "Cals_per100grams": "38 cal"
+  },
+  {
+    "FoodItem": "Shallots",
+    "per100grams": "100g",
+    "Cals_per100grams": "72 cal"
+  },
+  {
+    "FoodItem": "Spinach",
+    "per100grams": "100g",
+    "Cals_per100grams": "23 cal"
+  },
+  {
+    "FoodItem": "Squash",
+    "per100grams": "100g",
+    "Cals_per100grams": "45 cal"
+  },
+  {
+    "FoodItem": "Sweet Potato",
+    "per100grams": "100g",
+    "Cals_per100grams": "86 cal"
+  },
+  {
+    "FoodItem": "Tomato",
+    "per100grams": "100g",
+    "Cals_per100grams": "18 cal"
+  },
+  {
+    "FoodItem": "Turnip Greens",
+    "per100grams": "100g",
+    "Cals_per100grams": "20 cal"
+  },
+  {
+    "FoodItem": "Turnips",
+    "per100grams": "100g",
+    "Cals_per100grams": "28 cal"
+  },
+  {
+    "FoodItem": "Wasabi",
+    "per100grams": "100g",
+    "Cals_per100grams": "109 cal"
+  },
+  {
+    "FoodItem": "Winter Squash",
+    "per100grams": "100g",
+    "Cals_per100grams": "34 cal"
+  },
+  {
+    "FoodItem": "Zucchini",
+    "per100grams": "100g",
+    "Cals_per100grams": "17 cal"
+  },
+  {
+    "FoodItem": "Arby’s Grand Turkey Club",
+    "per100grams": "100g",
+    "Cals_per100grams": "210 cal"
+  },
+  {
+    "FoodItem": "Arby’s Reuben",
+    "per100grams": "100g",
+    "Cals_per100grams": "208 cal"
+  },
+  {
+    "FoodItem": "Arby’s Roast Beef Classic",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "Arby’s Roast Beef Max",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "BBQ Rib",
+    "per100grams": "100g",
+    "Cals_per100grams": "212 cal"
+  },
+  {
+    "FoodItem": "Bean Burrito",
+    "per100grams": "100g",
+    "Cals_per100grams": "200 cal"
+  },
+  {
+    "FoodItem": "Big N’ Tasty",
+    "per100grams": "100g",
+    "Cals_per100grams": "223 cal"
+  },
+  {
+    "FoodItem": "Bratwurst",
+    "per100grams": "100g",
+    "Cals_per100grams": "333 cal"
+  },
+  {
+    "FoodItem": "Burger King Angry Whopper",
+    "per100grams": "100g",
+    "Cals_per100grams": "255 cal"
+  },
+  {
+    "FoodItem": "Burger King Double Whopper",
+    "per100grams": "100g",
+    "Cals_per100grams": "239 cal"
+  },
+  {
+    "FoodItem": "Burger King Double Whopper with Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "249 cal"
+  },
+  {
+    "FoodItem": "Burger King Original Chicken Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "301 cal"
+  },
+  {
+    "FoodItem": "Burger King Premium Alaskan Fish Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "259 cal"
+  },
+  {
+    "FoodItem": "Burger King Triple Whopper",
+    "per100grams": "100g",
+    "Cals_per100grams": "269 cal"
+  },
+  {
+    "FoodItem": "Burger King Whopper",
+    "per100grams": "100g",
+    "Cals_per100grams": "231 cal"
+  },
+  {
+    "FoodItem": "Burger King Whopper Jr.",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "Burger King Whopper with Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "241 cal"
+  },
+  {
+    "FoodItem": "Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "263 cal"
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "163 cal"
+  },
+  {
+    "FoodItem": "Chicken Fajita",
+    "per100grams": "100g",
+    "Cals_per100grams": "147 cal"
+  },
+  {
+    "FoodItem": "Chicken McNuggets",
+    "per100grams": "100g",
+    "Cals_per100grams": "302 cal"
+  },
+  {
+    "FoodItem": "Chicken Nuggets",
+    "per100grams": "100g",
+    "Cals_per100grams": "296 cal"
+  },
+  {
+    "FoodItem": "Chicken Pizziola",
+    "per100grams": "100g",
+    "Cals_per100grams": "141 cal"
+  },
+  {
+    "FoodItem": "Chicken Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "241 cal"
+  },
+  {
+    "FoodItem": "Chicken Teriyaki Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "138 cal"
+  },
+  {
+    "FoodItem": "Chicken Wings",
+    "per100grams": "100g",
+    "Cals_per100grams": "324 cal"
+  },
+  {
+    "FoodItem": "Chop Suey",
+    "per100grams": "100g",
+    "Cals_per100grams": "172 cal"
+  },
+  {
+    "FoodItem": "Curly Fries",
+    "per100grams": "100g",
+    "Cals_per100grams": "311 cal"
+  },
+  {
+    "FoodItem": "Double Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "267 cal"
+  },
+  {
+    "FoodItem": "Egg Roll",
+    "per100grams": "100g",
+    "Cals_per100grams": "250 cal"
+  },
+  {
+    "FoodItem": "Falafel",
+    "per100grams": "100g",
+    "Cals_per100grams": "335 cal"
+  },
+  {
+    "FoodItem": "Filet-o-Fish",
+    "per100grams": "100g",
+    "Cals_per100grams": "282 cal"
+  },
+  {
+    "FoodItem": "Fish and Chips",
+    "per100grams": "100g",
+    "Cals_per100grams": "195 cal"
+  },
+  {
+    "FoodItem": "Fish Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "273 cal"
+  },
+  {
+    "FoodItem": "French Fries",
+    "per100grams": "100g",
+    "Cals_per100grams": "312 cal"
+  },
+  {
+    "FoodItem": "Grilled Chicken Salad",
+    "per100grams": "100g",
+    "Cals_per100grams": "88 cal"
+  },
+  {
+    "FoodItem": "Ham Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "241 cal"
+  },
+  {
+    "FoodItem": "Hamburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "254 cal"
+  },
+  {
+    "FoodItem": "Hot Dog",
+    "per100grams": "100g",
+    "Cals_per100grams": "269 cal"
+  },
+  {
+    "FoodItem": "Italian BMT",
+    "per100grams": "100g",
+    "Cals_per100grams": "183 cal"
+  },
+  {
+    "FoodItem": "Lasagna",
+    "per100grams": "100g",
+    "Cals_per100grams": "132 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Big Mac",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "263 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Chicken Nuggets",
+    "per100grams": "100g",
+    "Cals_per100grams": "297 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Double Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "282 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Filet-o-Fish",
+    "per100grams": "100g",
+    "Cals_per100grams": "275 cal"
+  },
+  {
+    "FoodItem": "McDonald’s McChicken",
+    "per100grams": "100g",
+    "Cals_per100grams": "251 cal"
+  },
+  {
+    "FoodItem": "McDonald’s McDouble",
+    "per100grams": "100g",
+    "Cals_per100grams": "252 cal"
+  },
+  {
+    "FoodItem": "McDonald’s McMuffi Egg",
+    "per100grams": "100g",
+    "Cals_per100grams": "225 cal"
+  },
+  {
+    "FoodItem": "McDonald’s McRib",
+    "per100grams": "100g",
+    "Cals_per100grams": "265 cal"
+  },
+  {
+    "FoodItem": "McDonald’s Mighty Wings",
+    "per100grams": "100g",
+    "Cals_per100grams": "308 cal"
+  },
+  {
+    "FoodItem": "McRib",
+    "per100grams": "100g",
+    "Cals_per100grams": "265 cal"
+  },
+  {
+    "FoodItem": "Meatball Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "161 cal"
+  },
+  {
+    "FoodItem": "Nachos with Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "306 cal"
+  },
+  {
+    "FoodItem": "Onion Rings",
+    "per100grams": "100g",
+    "Cals_per100grams": "411 cal"
+  },
+  {
+    "FoodItem": "Smoked Salmon",
+    "per100grams": "100g",
+    "Cals_per100grams": "158 cal"
+  },
+  {
+    "FoodItem": "Spicy Italian",
+    "per100grams": "100g",
+    "Cals_per100grams": "219 cal"
+  },
+  {
+    "FoodItem": "Subway Club Sandwich",
+    "per100grams": "100g",
+    "Cals_per100grams": "131 cal"
+  },
+  {
+    "FoodItem": "Tortilla Wrap",
+    "per100grams": "100g",
+    "Cals_per100grams": "271 cal"
+  },
+  {
+    "FoodItem": "Tuna",
+    "per100grams": "100g",
+    "Cals_per100grams": "86 cal"
+  },
+  {
+    "FoodItem": "Turkey",
+    "per100grams": "100g",
+    "Cals_per100grams": "104 cal"
+  },
+  {
+    "FoodItem": "Veggie Burger",
+    "per100grams": "100g",
+    "Cals_per100grams": "181 cal"
+  },
+  {
+    "FoodItem": "Veggie Delight",
+    "per100grams": "100g",
+    "Cals_per100grams": "138 cal"
+  },
+  {
+    "FoodItem": "Veggie Patty",
+    "per100grams": "100g",
+    "Cals_per100grams": "390 cal"
+  },
+  {
+    "FoodItem": "Wendy’s Baconator",
+    "per100grams": "100g",
+    "Cals_per100grams": "304 cal"
+  },
+  {
+    "FoodItem": "Wendy’s Jr. Bacon Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "261 cal"
+  },
+  {
+    "FoodItem": "Wendy’s Jr. Cheeseburger",
+    "per100grams": "100g",
+    "Cals_per100grams": "225 cal"
+  },
+  {
+    "FoodItem": "Wendy’s Son of Baconator",
+    "per100grams": "100g",
+    "Cals_per100grams": "321 cal"
+  },
+  {
+    "FoodItem": "Whopper",
+    "per100grams": "100g",
+    "Cals_per100grams": "231 cal"
+  },
+  {
+    "FoodItem": "Zinger",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "Zinger Burger",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "Poutine",
+    "per100grams": "100g",
+    "Cals_per100grams": "227 cal"
+  },
+  {
+    "FoodItem": "BBQ Chicken Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "BBQ Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "224 cal"
+  },
+  {
+    "FoodItem": "Beef Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "304 cal"
+  },
+  {
+    "FoodItem": "Bianca Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "Buffalo Chicken Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "252 cal"
+  },
+  {
+    "FoodItem": "Calabrese Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "235 cal"
+  },
+  {
+    "FoodItem": "Calzone",
+    "per100grams": "100g",
+    "Cals_per100grams": "231 cal"
+  },
+  {
+    "FoodItem": "Capricciosa Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "260 cal"
+  },
+  {
+    "FoodItem": "Cheese Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "267 cal"
+  },
+  {
+    "FoodItem": "Chicken Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "Deep Dish Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "265 cal"
+  },
+  {
+    "FoodItem": "Dominos Philly Cheese Steak Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "224 cal"
+  },
+  {
+    "FoodItem": "Four Cheese Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "221 cal"
+  },
+  {
+    "FoodItem": "Goat Cheese Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "219 cal"
+  },
+  {
+    "FoodItem": "Grilled Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "226 cal"
+  },
+  {
+    "FoodItem": "Hawaiian Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "115 cal"
+  },
+  {
+    "FoodItem": "Margherita Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "275 cal"
+  },
+  {
+    "FoodItem": "Mozzarella Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "249 cal"
+  },
+  {
+    "FoodItem": "Mushroom Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "212 cal"
+  },
+  {
+    "FoodItem": "Napoli Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "202 cal"
+  },
+  {
+    "FoodItem": "New York Style Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "169 cal"
+  },
+  {
+    "FoodItem": "Pepperoni Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "255 cal"
+  },
+  {
+    "FoodItem": "Pizza Dough",
+    "per100grams": "100g",
+    "Cals_per100grams": "228 cal"
+  },
+  {
+    "FoodItem": "Pizza Hut Stuffed Crust Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "255 cal"
+  },
+  {
+    "FoodItem": "Pizza Hut Supreme Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "248 cal"
+  },
+  {
+    "FoodItem": "Pizza Rolls",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Quattro Formaggi Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "248 cal"
+  },
+  {
+    "FoodItem": "Red Pepper Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "192 cal"
+  },
+  {
+    "FoodItem": "Salami Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "255 cal"
+  },
+  {
+    "FoodItem": "Sausage Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "Seafood Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "245 cal"
+  },
+  {
+    "FoodItem": "Shrimp Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "209 cal"
+  },
+  {
+    "FoodItem": "Sicilian Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "241 cal"
+  },
+  {
+    "FoodItem": "Spinach Feta Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "242 cal"
+  },
+  {
+    "FoodItem": "Spinach Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "234 cal"
+  },
+  {
+    "FoodItem": "Stuffed Crust Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "255 cal"
+  },
+  {
+    "FoodItem": "Tarte Flambée",
+    "per100grams": "100g",
+    "Cals_per100grams": "253 cal"
+  },
+  {
+    "FoodItem": "Thin Crust Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "261 cal"
+  },
+  {
+    "FoodItem": "Tuna Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "254 cal"
+  },
+  {
+    "FoodItem": "Vegetable Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "Vegetarian Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "Veggie Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "231 cal"
+  },
+  {
+    "FoodItem": "White Pizza",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "American Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Applewood",
+    "per100grams": "100g",
+    "Cals_per100grams": "410 cal"
+  },
+  {
+    "FoodItem": "Asiago Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "392 cal"
+  },
+  {
+    "FoodItem": "Babybel",
+    "per100grams": "100g",
+    "Cals_per100grams": "333 cal"
+  },
+  {
+    "FoodItem": "Blue Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "353 cal"
+  },
+  {
+    "FoodItem": "Brie",
+    "per100grams": "100g",
+    "Cals_per100grams": "334 cal"
+  },
+  {
+    "FoodItem": "Camembert",
+    "per100grams": "100g",
+    "Cals_per100grams": "300 cal"
+  },
+  {
+    "FoodItem": "Cheddar",
+    "per100grams": "100g",
+    "Cals_per100grams": "403 cal"
+  },
+  {
+    "FoodItem": "Cheese Fondue",
+    "per100grams": "100g",
+    "Cals_per100grams": "228 cal"
+  },
+  {
+    "FoodItem": "Cheese Spread",
+    "per100grams": "100g",
+    "Cals_per100grams": "290 cal"
+  },
+  {
+    "FoodItem": "Cheese Whiz",
+    "per100grams": "100g",
+    "Cals_per100grams": "276 cal"
+  },
+  {
+    "FoodItem": "Chester",
+    "per100grams": "100g",
+    "Cals_per100grams": "387 cal"
+  },
+  {
+    "FoodItem": "Colby Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "394 cal"
+  },
+  {
+    "FoodItem": "Colby-Jack Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "394 cal"
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "98 cal"
+  },
+  {
+    "FoodItem": "Dutch Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "393 cal"
+  },
+  {
+    "FoodItem": "Edam Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Emmentaler",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Feta",
+    "per100grams": "100g",
+    "Cals_per100grams": "264 cal"
+  },
+  {
+    "FoodItem": "Fontina",
+    "per100grams": "100g",
+    "Cals_per100grams": "389 cal"
+  },
+  {
+    "FoodItem": "Fresh Mozzarella",
+    "per100grams": "100g",
+    "Cals_per100grams": "280 cal"
+  },
+  {
+    "FoodItem": "Gjetost",
+    "per100grams": "100g",
+    "Cals_per100grams": "466 cal"
+  },
+  {
+    "FoodItem": "Goat Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "364 cal"
+  },
+  {
+    "FoodItem": "Gorgonzola",
+    "per100grams": "100g",
+    "Cals_per100grams": "350 cal"
+  },
+  {
+    "FoodItem": "Gouda",
+    "per100grams": "100g",
+    "Cals_per100grams": "356 cal"
+  },
+  {
+    "FoodItem": "Grated Parmesan",
+    "per100grams": "100g",
+    "Cals_per100grams": "431 cal"
+  },
+  {
+    "FoodItem": "Grilled Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "350 cal"
+  },
+  {
+    "FoodItem": "Gruyere",
+    "per100grams": "100g",
+    "Cals_per100grams": "413 cal"
+  },
+  {
+    "FoodItem": "Halloumi",
+    "per100grams": "100g",
+    "Cals_per100grams": "321 cal"
+  },
+  {
+    "FoodItem": "Havarti",
+    "per100grams": "100g",
+    "Cals_per100grams": "371 cal"
+  },
+  {
+    "FoodItem": "Italian Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "397 cal"
+  },
+  {
+    "FoodItem": "Jarlsberg",
+    "per100grams": "100g",
+    "Cals_per100grams": "352 cal"
+  },
+  {
+    "FoodItem": "Maasdam Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "344 cal"
+  },
+  {
+    "FoodItem": "Manchego Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "320 cal"
+  },
+  {
+    "FoodItem": "Monterey",
+    "per100grams": "100g",
+    "Cals_per100grams": "373 cal"
+  },
+  {
+    "FoodItem": "Monterey Jack Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "373 cal"
+  },
+  {
+    "FoodItem": "Mozzarella",
+    "per100grams": "100g",
+    "Cals_per100grams": "280 cal"
+  },
+  {
+    "FoodItem": "Muenster Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "368 cal"
+  },
+  {
+    "FoodItem": "Neufchatel",
+    "per100grams": "100g",
+    "Cals_per100grams": "253 cal"
+  },
+  {
+    "FoodItem": "Parmesan",
+    "per100grams": "100g",
+    "Cals_per100grams": "431 cal"
+  },
+  {
+    "FoodItem": "Pecorino",
+    "per100grams": "100g",
+    "Cals_per100grams": "387 cal"
+  },
+  {
+    "FoodItem": "Provolone",
+    "per100grams": "100g",
+    "Cals_per100grams": "351 cal"
+  },
+  {
+    "FoodItem": "Raclette Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Ricotta",
+    "per100grams": "100g",
+    "Cals_per100grams": "174 cal"
+  },
+  {
+    "FoodItem": "Romano",
+    "per100grams": "100g",
+    "Cals_per100grams": "387 cal"
+  },
+  {
+    "FoodItem": "Roquefort",
+    "per100grams": "100g",
+    "Cals_per100grams": "369 cal"
+  },
+  {
+    "FoodItem": "Sheep Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "364 cal"
+  },
+  {
+    "FoodItem": "Soft Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "268 cal"
+  },
+  {
+    "FoodItem": "Stilton Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "393 cal"
+  },
+  {
+    "FoodItem": "String Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "250 cal"
+  },
+  {
+    "FoodItem": "Swiss Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "380 cal"
+  },
+  {
+    "FoodItem": "White Cheddar",
+    "per100grams": "100g",
+    "Cals_per100grams": "403 cal"
+  },
+  {
+    "FoodItem": "Wisconsin Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "389 cal"
+  },
+  {
+    "FoodItem": "Chive Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "98 cal"
+  },
+  {
+    "FoodItem": "Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Cream Cheese with Herbs",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Feta Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Garlic Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Goat Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "364 cal"
+  },
+  {
+    "FoodItem": "Horseradish",
+    "per100grams": "100g",
+    "Cals_per100grams": "48 cal"
+  },
+  {
+    "FoodItem": "Mascarpone",
+    "per100grams": "100g",
+    "Cals_per100grams": "450 cal"
+  },
+  {
+    "FoodItem": "Obatzda",
+    "per100grams": "100g",
+    "Cals_per100grams": "303 cal"
+  },
+  {
+    "FoodItem": "Olive Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Pesto Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Philadelphia Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Pineapple Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Salmon Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Vegetable Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Walnut Cream Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "342 cal"
+  },
+  {
+    "FoodItem": "Almond Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "17 cal"
+  },
+  {
+    "FoodItem": "Buttermilk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "62 cal"
+  },
+  {
+    "FoodItem": "Chocolate Mousse",
+    "per100grams": "100g",
+    "Cals_per100grams": "225 cal"
+  },
+  {
+    "FoodItem": "Coconut Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "230 cal"
+  },
+  {
+    "FoodItem": "Coffee Creamer",
+    "per100grams": "100g",
+    "Cals_per100grams": "195 cal"
+  },
+  {
+    "FoodItem": "Condensed Milk",
+    "per100grams": "100g",
+    "Cals_per100grams": "321 cal"
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "98 cal"
+  },
+  {
+    "FoodItem": "Cream",
+    "per100grams": "100g",
+    "Cals_per100grams": "242 cal"
+  },
+  {
+    "FoodItem": "Creme Fraiche",
+    "per100grams": "100g",
+    "Cals_per100grams": "393 cal"
+  },
+  {
+    "FoodItem": "Curd",
+    "per100grams": "100g",
+    "Cals_per100grams": "98 cal"
+  },
+  {
+    "FoodItem": "Custard",
+    "per100grams": "100g",
+    "Cals_per100grams": "122 cal"
+  },
+  {
+    "FoodItem": "Evaporated Milk",
+    "per100grams": "100g",
+    "Cals_per100grams": "135 cal"
+  },
+  {
+    "FoodItem": "Goat Milk",
+    "per100grams": "100g",
+    "Cals_per100grams": "69 cal"
+  },
+  {
+    "FoodItem": "Hot Chocolate",
+    "per100grams": "100ml",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Kefir",
+    "per100grams": "100ml",
+    "Cals_per100grams": "55 cal"
+  },
+  {
+    "FoodItem": "Lactose-free Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "52 cal"
+  },
+  {
+    "FoodItem": "Lassi",
+    "per100grams": "100ml",
+    "Cals_per100grams": "75 cal"
+  },
+  {
+    "FoodItem": "Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Plain Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Powdered Milk",
+    "per100grams": "100g",
+    "Cals_per100grams": "496 cal"
+  },
+  {
+    "FoodItem": "Quark",
+    "per100grams": "100g",
+    "Cals_per100grams": "145 cal"
+  },
+  {
+    "FoodItem": "Rice Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "49 cal"
+  },
+  {
+    "FoodItem": "Rice Pudding",
+    "per100grams": "100g",
+    "Cals_per100grams": "118 cal"
+  },
+  {
+    "FoodItem": "Semi-skimmed Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "50 cal"
+  },
+  {
+    "FoodItem": "Semolina Pudding",
+    "per100grams": "100g",
+    "Cals_per100grams": "67 cal"
+  },
+  {
+    "FoodItem": "Skim Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "35 cal"
+  },
+  {
+    "FoodItem": "Sour Cream",
+    "per100grams": "100g",
+    "Cals_per100grams": "181 cal"
+  },
+  {
+    "FoodItem": "Soy Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "45 cal"
+  },
+  {
+    "FoodItem": "Sweetened Condensed Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "321 cal"
+  },
+  {
+    "FoodItem": "Tzatziki",
+    "per100grams": "100g",
+    "Cals_per100grams": "117 cal"
+  },
+  {
+    "FoodItem": "Whipped Cream",
+    "per100grams": "100g",
+    "Cals_per100grams": "257 cal"
+  },
+  {
+    "FoodItem": "Whole Milk",
+    "per100grams": "100ml",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "American Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Applewood",
+    "per100grams": "100g",
+    "Cals_per100grams": "410 cal"
+  },
+  {
+    "FoodItem": "Bergkäse",
+    "per100grams": "100g",
+    "Cals_per100grams": "418 cal"
+  },
+  {
+    "FoodItem": "Butter Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "388 cal"
+  },
+  {
+    "FoodItem": "Cheddar",
+    "per100grams": "100g",
+    "Cals_per100grams": "403 cal"
+  },
+  {
+    "FoodItem": "Cheese Platter",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Cheese Slices",
+    "per100grams": "100g",
+    "Cals_per100grams": "356 cal"
+  },
+  {
+    "FoodItem": "Colby Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "394 cal"
+  },
+  {
+    "FoodItem": "Colby-Jack Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "394 cal"
+  },
+  {
+    "FoodItem": "Cold Pack Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "Edam",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Edam Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Emmental",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Emmentaler",
+    "per100grams": "100g",
+    "Cals_per100grams": "357 cal"
+  },
+  {
+    "FoodItem": "Esrom (Cheese)",
+    "per100grams": "100g",
+    "Cals_per100grams": "322 cal"
+  },
+  {
+    "FoodItem": "Fol Epi",
+    "per100grams": "100g",
+    "Cals_per100grams": "388 cal"
+  },
+  {
+    "FoodItem": "Fresh Mozzarella",
+    "per100grams": "100g",
+    "Cals_per100grams": "280 cal"
+  },
+  {
+    "FoodItem": "Gouda",
+    "per100grams": "100g",
+    "Cals_per100grams": "356 cal"
+  },
+  {
+    "FoodItem": "Gouda Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "356 cal"
+  },
+  {
+    "FoodItem": "Havarti",
+    "per100grams": "100g",
+    "Cals_per100grams": "371 cal"
+  },
+  {
+    "FoodItem": "Lacy Swiss Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "321 cal"
+  },
+  {
+    "FoodItem": "Leerdammer",
+    "per100grams": "100g",
+    "Cals_per100grams": "284 cal"
+  },
+  {
+    "FoodItem": "Leerdammer Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "284 cal"
+  },
+  {
+    "FoodItem": "Maasdam Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "344 cal"
+  },
+  {
+    "FoodItem": "Monterey Jack Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "373 cal"
+  },
+  {
+    "FoodItem": "Mozzarella",
+    "per100grams": "100g",
+    "Cals_per100grams": "280 cal"
+  },
+  {
+    "FoodItem": "Muenster Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "368 cal"
+  },
+  {
+    "FoodItem": "Pepper Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Sandwich Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Smoked Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "410 cal"
+  },
+  {
+    "FoodItem": "Tilsit",
+    "per100grams": "100g",
+    "Cals_per100grams": "340 cal"
+  },
+  {
+    "FoodItem": "White American",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "White Cheddar",
+    "per100grams": "100g",
+    "Cals_per100grams": "403 cal"
+  },
+  {
+    "FoodItem": "Young Gouda",
+    "per100grams": "100g",
+    "Cals_per100grams": "356 cal"
+  },
+  {
+    "FoodItem": "Activia",
+    "per100grams": "100g",
+    "Cals_per100grams": "74 cal"
+  },
+  {
+    "FoodItem": "Activia Lemon",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Activia Strawberry",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Aloe Vera Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "85 cal"
+  },
+  {
+    "FoodItem": "Ayran",
+    "per100grams": "100ml",
+    "Cals_per100grams": "42 cal"
+  },
+  {
+    "FoodItem": "Bircher Muesli Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "109 cal"
+  },
+  {
+    "FoodItem": "Blueberry Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "105 cal"
+  },
+  {
+    "FoodItem": "Cherry Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Chocolate Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "128 cal"
+  },
+  {
+    "FoodItem": "Cream Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "124 cal"
+  },
+  {
+    "FoodItem": "Creamy Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "90 cal"
+  },
+  {
+    "FoodItem": "Diet Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "54 cal"
+  },
+  {
+    "FoodItem": "Fruit Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Greek Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "53 cal"
+  },
+  {
+    "FoodItem": "Low-Fat Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "63 cal"
+  },
+  {
+    "FoodItem": "Mocca Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Organic Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "75 cal"
+  },
+  {
+    "FoodItem": "Peach Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "97 cal"
+  },
+  {
+    "FoodItem": "Plain Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Probiotic Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "80 cal"
+  },
+  {
+    "FoodItem": "Skim Milk Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "56 cal"
+  },
+  {
+    "FoodItem": "Stracciatella Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "139 cal"
+  },
+  {
+    "FoodItem": "Strawberry Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Vanilla Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "101 cal"
+  },
+  {
+    "FoodItem": "Yogurt",
+    "per100grams": "100g",
+    "Cals_per100grams": "61 cal"
+  },
+  {
+    "FoodItem": "Yogurt Corner",
+    "per100grams": "100g",
+    "Cals_per100grams": "119 cal"
+  },
+  {
+    "FoodItem": "Yoplait Boston Cream Pie",
+    "per100grams": "100g",
+    "Cals_per100grams": "90 cal"
+  },
+  {
+    "FoodItem": "Yoplait French Vanilla",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Greek Blueberry",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Greek Coconut",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Greek Strawberry",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Greek Vanilla",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Harvest Peach",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Key Lime Pie",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Mango",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Mixed Berry",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Pina Colada",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Strawberry",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Strawberry Banana",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Yoplait Strawberry Cheesecake",
+    "per100grams": "100g",
+    "Cals_per100grams": "100 cal"
+  },
+  {
+    "FoodItem": "Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "171 cal"
+  },
+  {
+    "FoodItem": "Beef Brisket",
+    "per100grams": "100g",
+    "Cals_per100grams": "137 cal"
+  },
+  {
+    "FoodItem": "Beef Fillet",
+    "per100grams": "100g",
+    "Cals_per100grams": "189 cal"
+  },
+  {
+    "FoodItem": "Beef Goulash",
+    "per100grams": "100g",
+    "Cals_per100grams": "123 cal"
+  },
+  {
+    "FoodItem": "Beef Minute Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "133 cal"
+  },
+  {
+    "FoodItem": "Beef Neck",
+    "per100grams": "100g",
+    "Cals_per100grams": "213 cal"
+  },
+  {
+    "FoodItem": "Beef Pancreas",
+    "per100grams": "100g",
+    "Cals_per100grams": "271 cal"
+  },
+  {
+    "FoodItem": "Beef Patty",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Beef Prime Rib",
+    "per100grams": "100g",
+    "Cals_per100grams": "404 cal"
+  },
+  {
+    "FoodItem": "Beef Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "196 cal"
+  },
+  {
+    "FoodItem": "Beef Sirloin",
+    "per100grams": "100g",
+    "Cals_per100grams": "182 cal"
+  },
+  {
+    "FoodItem": "Beef Suet",
+    "per100grams": "100g",
+    "Cals_per100grams": "854 cal"
+  },
+  {
+    "FoodItem": "Beef Tallow",
+    "per100grams": "100g",
+    "Cals_per100grams": "902 cal"
+  },
+  {
+    "FoodItem": "Beef Thymus",
+    "per100grams": "100g",
+    "Cals_per100grams": "319 cal"
+  },
+  {
+    "FoodItem": "Beef Tripe",
+    "per100grams": "100g",
+    "Cals_per100grams": "94 cal"
+  },
+  {
+    "FoodItem": "Chuck Roast",
+    "per100grams": "100g",
+    "Cals_per100grams": "141 cal"
+  },
+  {
+    "FoodItem": "Chuck Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "137 cal"
+  },
+  {
+    "FoodItem": "Filet Mignon",
+    "per100grams": "100g",
+    "Cals_per100grams": "207 cal"
+  },
+  {
+    "FoodItem": "Flank Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "194 cal"
+  },
+  {
+    "FoodItem": "Ground Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "241 cal"
+  },
+  {
+    "FoodItem": "Ground Chuck",
+    "per100grams": "100g",
+    "Cals_per100grams": "250 cal"
+  },
+  {
+    "FoodItem": "Ground Round",
+    "per100grams": "100g",
+    "Cals_per100grams": "212 cal"
+  },
+  {
+    "FoodItem": "Minced Veal",
+    "per100grams": "100g",
+    "Cals_per100grams": "143 cal"
+  },
+  {
+    "FoodItem": "Porterhouse Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Rib Eye Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "217 cal"
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "187 cal"
+  },
+  {
+    "FoodItem": "Rump Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "171 cal"
+  },
+  {
+    "FoodItem": "Skirt Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "205 cal"
+  },
+  {
+    "FoodItem": "Stew Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "191 cal"
+  },
+  {
+    "FoodItem": "Strip Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "117 cal"
+  },
+  {
+    "FoodItem": "T-Bone-Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "221 cal"
+  },
+  {
+    "FoodItem": "Veal",
+    "per100grams": "100g",
+    "Cals_per100grams": "282 cal"
+  },
+  {
+    "FoodItem": "Veal Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "282 cal"
+  },
+  {
+    "FoodItem": "Veal Leg",
+    "per100grams": "100g",
+    "Cals_per100grams": "211 cal"
+  },
+  {
+    "FoodItem": "Veal Roast Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "175 cal"
+  },
+  {
+    "FoodItem": "Veal Shank",
+    "per100grams": "100g",
+    "Cals_per100grams": "177 cal"
+  },
+  {
+    "FoodItem": "Veal Shoulder",
+    "per100grams": "100g",
+    "Cals_per100grams": "183 cal"
+  },
+  {
+    "FoodItem": "Veal Sirloin",
+    "per100grams": "100g",
+    "Cals_per100grams": "204 cal"
+  },
+  {
+    "FoodItem": "Veal Tenderloin",
+    "per100grams": "100g",
+    "Cals_per100grams": "217 cal"
+  },
+  {
+    "FoodItem": "Baked Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "343 cal"
+  },
+  {
+    "FoodItem": "Beef Salami",
+    "per100grams": "100g",
+    "Cals_per100grams": "375 cal"
+  },
+  {
+    "FoodItem": "Boiled Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "126 cal"
+  },
+  {
+    "FoodItem": "Bologna",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Bresaola",
+    "per100grams": "100g",
+    "Cals_per100grams": "178 cal"
+  },
+  {
+    "FoodItem": "Capicola",
+    "per100grams": "100g",
+    "Cals_per100grams": "110 cal"
+  },
+  {
+    "FoodItem": "Chicken Breast Fillet",
+    "per100grams": "100g",
+    "Cals_per100grams": "79 cal"
+  },
+  {
+    "FoodItem": "Chopped Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "180 cal"
+  },
+  {
+    "FoodItem": "Chorizo",
+    "per100grams": "100g",
+    "Cals_per100grams": "455 cal"
+  },
+  {
+    "FoodItem": "Corned Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "251 cal"
+  },
+  {
+    "FoodItem": "Dutch Loaf",
+    "per100grams": "100g",
+    "Cals_per100grams": "268 cal"
+  },
+  {
+    "FoodItem": "Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "145 cal"
+  },
+  {
+    "FoodItem": "Ham Sausage",
+    "per100grams": "100g",
+    "Cals_per100grams": "164 cal"
+  },
+  {
+    "FoodItem": "Head Cheese",
+    "per100grams": "100g",
+    "Cals_per100grams": "157 cal"
+  },
+  {
+    "FoodItem": "Hickory Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "188 cal"
+  },
+  {
+    "FoodItem": "Honey Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "122 cal"
+  },
+  {
+    "FoodItem": "Liverwurst",
+    "per100grams": "100g",
+    "Cals_per100grams": "326 cal"
+  },
+  {
+    "FoodItem": "Olive Loaf",
+    "per100grams": "100g",
+    "Cals_per100grams": "232 cal"
+  },
+  {
+    "FoodItem": "Oven-Roasted Turkey Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "104 cal"
+  },
+  {
+    "FoodItem": "Parma Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "345 cal"
+  },
+  {
+    "FoodItem": "Pastrami",
+    "per100grams": "100g",
+    "Cals_per100grams": "133 cal"
+  },
+  {
+    "FoodItem": "Pepperoni",
+    "per100grams": "100g",
+    "Cals_per100grams": "494 cal"
+  },
+  {
+    "FoodItem": "Pimento Loaf",
+    "per100grams": "100g",
+    "Cals_per100grams": "265 cal"
+  },
+  {
+    "FoodItem": "Pork Roast",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Prosciutto",
+    "per100grams": "100g",
+    "Cals_per100grams": "195 cal"
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "267 cal"
+  },
+  {
+    "FoodItem": "Salami",
+    "per100grams": "100g",
+    "Cals_per100grams": "336 cal"
+  },
+  {
+    "FoodItem": "Serrano Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "300 cal"
+  },
+  {
+    "FoodItem": "Smoked Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "107 cal"
+  },
+  {
+    "FoodItem": "Smoked Turkey Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "104 cal"
+  },
+  {
+    "FoodItem": "Summer Sausage",
+    "per100grams": "100g",
+    "Cals_per100grams": "298 cal"
+  },
+  {
+    "FoodItem": "Tongue",
+    "per100grams": "100g",
+    "Cals_per100grams": "284 cal"
+  },
+  {
+    "FoodItem": "Turkey Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "104 cal"
+  },
+  {
+    "FoodItem": "Turkey Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "126 cal"
+  },
+  {
+    "FoodItem": "Turkey Salami",
+    "per100grams": "100g",
+    "Cals_per100grams": "152 cal"
+  },
+  {
+    "FoodItem": "Alligator",
+    "per100grams": "100g",
+    "Cals_per100grams": "232 cal"
+  },
+  {
+    "FoodItem": "Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "248 cal"
+  },
+  {
+    "FoodItem": "Beef Brisket",
+    "per100grams": "100g",
+    "Cals_per100grams": "242 cal"
+  },
+  {
+    "FoodItem": "Beef Jerky",
+    "per100grams": "100g",
+    "Cals_per100grams": "410 cal"
+  },
+  {
+    "FoodItem": "Beef Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "238 cal"
+  },
+  {
+    "FoodItem": "Beef Tenderloin",
+    "per100grams": "100g",
+    "Cals_per100grams": "218 cal"
+  },
+  {
+    "FoodItem": "Chicken",
+    "per100grams": "100g",
+    "Cals_per100grams": "219 cal"
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "172 cal"
+  },
+  {
+    "FoodItem": "Chicken Drumstick",
+    "per100grams": "100g",
+    "Cals_per100grams": "185 cal"
+  },
+  {
+    "FoodItem": "Chicken Fat",
+    "per100grams": "100g",
+    "Cals_per100grams": "898 cal"
+  },
+  {
+    "FoodItem": "Chicken Giblets",
+    "per100grams": "100g",
+    "Cals_per100grams": "158 cal"
+  },
+  {
+    "FoodItem": "Chicken Gizzards",
+    "per100grams": "100g",
+    "Cals_per100grams": "146 cal"
+  },
+  {
+    "FoodItem": "Chicken Leg",
+    "per100grams": "100g",
+    "Cals_per100grams": "174 cal"
+  },
+  {
+    "FoodItem": "Chicken Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "167 cal"
+  },
+  {
+    "FoodItem": "Chicken Meat",
+    "per100grams": "100g",
+    "Cals_per100grams": "172 cal"
+  },
+  {
+    "FoodItem": "Chicken Thigh",
+    "per100grams": "100g",
+    "Cals_per100grams": "229 cal"
+  },
+  {
+    "FoodItem": "Chicken Wing",
+    "per100grams": "100g",
+    "Cals_per100grams": "266 cal"
+  },
+  {
+    "FoodItem": "Chuck Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "277 cal"
+  },
+  {
+    "FoodItem": "Cubed Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "199 cal"
+  },
+  {
+    "FoodItem": "Duck",
+    "per100grams": "100g",
+    "Cals_per100grams": "337 cal"
+  },
+  {
+    "FoodItem": "Filet Mignon",
+    "per100grams": "100g",
+    "Cals_per100grams": "267 cal"
+  },
+  {
+    "FoodItem": "Flank Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "194 cal"
+  },
+  {
+    "FoodItem": "Flat Iron Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "137 cal"
+  },
+  {
+    "FoodItem": "Ground Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "Ground Round",
+    "per100grams": "100g",
+    "Cals_per100grams": "246 cal"
+  },
+  {
+    "FoodItem": "Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "163 cal"
+  },
+  {
+    "FoodItem": "New York Strip Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "199 cal"
+  },
+  {
+    "FoodItem": "Ostrich",
+    "per100grams": "100g",
+    "Cals_per100grams": "145 cal"
+  },
+  {
+    "FoodItem": "Pork",
+    "per100grams": "100g",
+    "Cals_per100grams": "196 cal"
+  },
+  {
+    "FoodItem": "Pork Baby Back Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "212 cal"
+  },
+  {
+    "FoodItem": "Pork Chops",
+    "per100grams": "100g",
+    "Cals_per100grams": "196 cal"
+  },
+  {
+    "FoodItem": "Pork Country-Style Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "247 cal"
+  },
+  {
+    "FoodItem": "Pork Loin",
+    "per100grams": "100g",
+    "Cals_per100grams": "204 cal"
+  },
+  {
+    "FoodItem": "Pork Roast",
+    "per100grams": "100g",
+    "Cals_per100grams": "254 cal"
+  },
+  {
+    "FoodItem": "Pork Steaks",
+    "per100grams": "100g",
+    "Cals_per100grams": "196 cal"
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "per100grams": "100g",
+    "Cals_per100grams": "140 cal"
+  },
+  {
+    "FoodItem": "Round Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "182 cal"
+  },
+  {
+    "FoodItem": "Schnitzel",
+    "per100grams": "100g",
+    "Cals_per100grams": "156 cal"
+  },
+  {
+    "FoodItem": "Spare Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "238 cal"
+  },
+  {
+    "FoodItem": "Standing Rib Roast",
+    "per100grams": "100g",
+    "Cals_per100grams": "333 cal"
+  },
+  {
+    "FoodItem": "T-Bone Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "202 cal"
+  },
+  {
+    "FoodItem": "Turkey",
+    "per100grams": "100g",
+    "Cals_per100grams": "189 cal"
+  },
+  {
+    "FoodItem": "Turkey Breast",
+    "per100grams": "100g",
+    "Cals_per100grams": "135 cal"
+  },
+  {
+    "FoodItem": "Turkey Legs",
+    "per100grams": "100g",
+    "Cals_per100grams": "208 cal"
+  },
+  {
+    "FoodItem": "Turkey Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "189 cal"
+  },
+  {
+    "FoodItem": "Turkey Wings",
+    "per100grams": "100g",
+    "Cals_per100grams": "221 cal"
+  },
+  {
+    "FoodItem": "Beef Brain",
+    "per100grams": "100g",
+    "Cals_per100grams": "196 cal"
+  },
+  {
+    "FoodItem": "Beef Heart",
+    "per100grams": "100g",
+    "Cals_per100grams": "165 cal"
+  },
+  {
+    "FoodItem": "Beef Kidney",
+    "per100grams": "100g",
+    "Cals_per100grams": "158 cal"
+  },
+  {
+    "FoodItem": "Beef Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "191 cal"
+  },
+  {
+    "FoodItem": "Beef Lung",
+    "per100grams": "100g",
+    "Cals_per100grams": "120 cal"
+  },
+  {
+    "FoodItem": "Beef Melt",
+    "per100grams": "100g",
+    "Cals_per100grams": "271 cal"
+  },
+  {
+    "FoodItem": "Beef Tongue",
+    "per100grams": "100g",
+    "Cals_per100grams": "284 cal"
+  },
+  {
+    "FoodItem": "Calf Brain",
+    "per100grams": "100g",
+    "Cals_per100grams": "136 cal"
+  },
+  {
+    "FoodItem": "Calf Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "192 cal"
+  },
+  {
+    "FoodItem": "Calf Lung",
+    "per100grams": "100g",
+    "Cals_per100grams": "104 cal"
+  },
+  {
+    "FoodItem": "Calf Melt",
+    "per100grams": "100g",
+    "Cals_per100grams": "256 cal"
+  },
+  {
+    "FoodItem": "Chicken Giblets",
+    "per100grams": "100g",
+    "Cals_per100grams": "277 cal"
+  },
+  {
+    "FoodItem": "Chicken Heart",
+    "per100grams": "100g",
+    "Cals_per100grams": "185 cal"
+  },
+  {
+    "FoodItem": "Chicken Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "172 cal"
+  },
+  {
+    "FoodItem": "Chicken Stomach",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Chitterlings",
+    "per100grams": "100g",
+    "Cals_per100grams": "233 cal"
+  },
+  {
+    "FoodItem": "Duck Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "136 cal"
+  },
+  {
+    "FoodItem": "Goose Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "133 cal"
+  },
+  {
+    "FoodItem": "Hog Maws",
+    "per100grams": "100g",
+    "Cals_per100grams": "157 cal"
+  },
+  {
+    "FoodItem": "Pig Brain",
+    "per100grams": "100g",
+    "Cals_per100grams": "138 cal"
+  },
+  {
+    "FoodItem": "Pig Heart",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Pig Kidney",
+    "per100grams": "100g",
+    "Cals_per100grams": "151 cal"
+  },
+  {
+    "FoodItem": "Pig Lung",
+    "per100grams": "100g",
+    "Cals_per100grams": "99 cal"
+  },
+  {
+    "FoodItem": "Pork Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "165 cal"
+  },
+  {
+    "FoodItem": "Pork Melt",
+    "per100grams": "100g",
+    "Cals_per100grams": "219 cal"
+  },
+  {
+    "FoodItem": "Pork Tongue",
+    "per100grams": "100g",
+    "Cals_per100grams": "271 cal"
+  },
+  {
+    "FoodItem": "Turkey Giblets",
+    "per100grams": "100g",
+    "Cals_per100grams": "173 cal"
+  },
+  {
+    "FoodItem": "Turkey Heart",
+    "per100grams": "100g",
+    "Cals_per100grams": "174 cal"
+  },
+  {
+    "FoodItem": "Turkey Liver",
+    "per100grams": "100g",
+    "Cals_per100grams": "189 cal"
+  },
+  {
+    "FoodItem": "Turkey Stomach",
+    "per100grams": "100g",
+    "Cals_per100grams": "148 cal"
+  },
+  {
+    "FoodItem": "Veal Heart",
+    "per100grams": "100g",
+    "Cals_per100grams": "186 cal"
+  },
+  {
+    "FoodItem": "Veal Kidney",
+    "per100grams": "100g",
+    "Cals_per100grams": "163 cal"
+  },
+  {
+    "FoodItem": "Veal Tongue",
+    "per100grams": "100g",
+    "Cals_per100grams": "202 cal"
+  },
+  {
+    "FoodItem": "Bacon",
+    "per100grams": "100g",
+    "Cals_per100grams": "407 cal"
+  },
+  {
+    "FoodItem": "Brawn",
+    "per100grams": "100g",
+    "Cals_per100grams": "309 cal"
+  },
+  {
+    "FoodItem": "Canadian-Style Bacon",
+    "per100grams": "100g",
+    "Cals_per100grams": "107 cal"
+  },
+  {
+    "FoodItem": "Chitterlings",
+    "per100grams": "100g",
+    "Cals_per100grams": "233 cal"
+  },
+  {
+    "FoodItem": "Ground Pork",
+    "per100grams": "100g",
+    "Cals_per100grams": "263 cal"
+  },
+  {
+    "FoodItem": "Hog Maws",
+    "per100grams": "100g",
+    "Cals_per100grams": "250 cal"
+  },
+  {
+    "FoodItem": "Lard",
+    "per100grams": "100g",
+    "Cals_per100grams": "898 cal"
+  },
+  {
+    "FoodItem": "Meatloaf",
+    "per100grams": "100g",
+    "Cals_per100grams": "89 cal"
+  },
+  {
+    "FoodItem": "Parma Ham",
+    "per100grams": "100g",
+    "Cals_per100grams": "261 cal"
+  },
+  {
+    "FoodItem": "Pig Ear",
+    "per100grams": "100g",
+    "Cals_per100grams": "166 cal"
+  },
+  {
+    "FoodItem": "Pig Fat",
+    "per100grams": "100g",
+    "Cals_per100grams": "638 cal"
+  },
+  {
+    "FoodItem": "Pig’s Tail",
+    "per100grams": "100g",
+    "Cals_per100grams": "396 cal"
+  },
+  {
+    "FoodItem": "Pig’s Trotter",
+    "per100grams": "100g",
+    "Cals_per100grams": "243 cal"
+  },
+  {
+    "FoodItem": "Pork Bacon",
+    "per100grams": "100g",
+    "Cals_per100grams": "407 cal"
+  },
+  {
+    "FoodItem": "Pork Belly",
+    "per100grams": "100g",
+    "Cals_per100grams": "518 cal"
+  },
+  {
+    "FoodItem": "Pork Blade Steak",
+    "per100grams": "100g",
+    "Cals_per100grams": "232 cal"
+  },
+  {
+    "FoodItem": "Pork Chop",
+    "per100grams": "100g",
+    "Cals_per100grams": "123 cal"
+  },
+  {
+    "FoodItem": "Pork Country-Style Ribs",
+    "per100grams": "100g",
+    "Cals_per100grams": "133 cal"
+  },
+  {
+    "FoodItem": "Pork Crown Roast",
+    "per100grams": "100g",
+    "Cals_per100grams": "212 cal"
   }
+
+ 
 ]
